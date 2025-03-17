@@ -10,7 +10,8 @@
   <h6>Ketua Kelas</h6><br>
   <h6>Nim : 23110042</h6><br>
   <h6>Joko Brilian</h6><br>
-  <h6>Tahun 2025</h6>
+  <h6>Tahun 2025</h6><br>
+  <h6>Amik Mahaputra Riau</h6>
 <a href="index.php">Kembali</a>
 </body>
 </html>
